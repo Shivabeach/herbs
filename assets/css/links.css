@@ -1,0 +1,7 @@
+a:active,
+a:hover {
+  outline: 1px;
+}
+a:link {
+  color: #f6b793;
+}

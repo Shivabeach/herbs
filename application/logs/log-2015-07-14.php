@@ -1,0 +1,39 @@
+<?php defined('BASEPATH') OR exit('No direct script access allowed'); ?>
+
+ERROR - 2015-07-14 02:26:01 --> 404 Page Not Found: Assets/dist
+ERROR - 2015-07-14 02:26:01 --> 404 Page Not Found: Assets/dist
+ERROR - 2015-07-14 02:26:01 --> 404 Page Not Found: Assets/dist
+ERROR - 2015-07-14 02:29:00 --> 404 Page Not Found: Assets/dist
+ERROR - 2015-07-14 02:29:00 --> 404 Page Not Found: Assets/dist
+ERROR - 2015-07-14 02:29:00 --> 404 Page Not Found: Assets/dist
+ERROR - 2015-07-14 04:20:53 --> 404 Page Not Found: Assets/dist
+ERROR - 2015-07-14 04:20:53 --> 404 Page Not Found: Assets/dist
+ERROR - 2015-07-14 04:20:53 --> 404 Page Not Found: Assets/dist
+ERROR - 2015-07-14 04:21:46 --> 404 Page Not Found: Assets/dist
+ERROR - 2015-07-14 04:21:46 --> 404 Page Not Found: Assets/dist
+ERROR - 2015-07-14 04:21:46 --> 404 Page Not Found: Assets/dist
+ERROR - 2015-07-14 04:22:29 --> 404 Page Not Found: Assets/dist
+ERROR - 2015-07-14 04:22:29 --> 404 Page Not Found: Assets/dist
+ERROR - 2015-07-14 04:22:29 --> 404 Page Not Found: Assets/dist
+ERROR - 2015-07-14 16:53:59 --> Severity: Parsing Error --> syntax error, unexpected 'd' (T_STRING), expecting ';' or '{' C:\wamp\www\herbs\application\controllers\Welcome.php 11
+ERROR - 2015-07-14 16:54:50 --> 404 Page Not Found: Assets/dist
+ERROR - 2015-07-14 16:54:50 --> 404 Page Not Found: Assets/dist
+ERROR - 2015-07-14 16:54:50 --> 404 Page Not Found: Assets/dist
+ERROR - 2015-07-14 16:56:53 --> 404 Page Not Found: Assets/dist
+ERROR - 2015-07-14 16:56:53 --> 404 Page Not Found: Assets/dist
+ERROR - 2015-07-14 16:56:53 --> 404 Page Not Found: Assets/dist
+ERROR - 2015-07-14 16:59:15 --> 404 Page Not Found: Assets/dist
+ERROR - 2015-07-14 16:59:16 --> 404 Page Not Found: Assets/dist
+ERROR - 2015-07-14 16:59:16 --> 404 Page Not Found: Assets/dist
+ERROR - 2015-07-14 17:00:51 --> 404 Page Not Found: Assets/dist
+ERROR - 2015-07-14 17:00:52 --> 404 Page Not Found: Assets/dist
+ERROR - 2015-07-14 17:00:52 --> 404 Page Not Found: Assets/dist
+ERROR - 2015-07-14 17:02:09 --> 404 Page Not Found: Assets/dist
+ERROR - 2015-07-14 17:02:09 --> 404 Page Not Found: Assets/dist
+ERROR - 2015-07-14 17:02:09 --> 404 Page Not Found: Assets/dist
+ERROR - 2015-07-14 17:03:04 --> 404 Page Not Found: Assets/dist
+ERROR - 2015-07-14 17:03:04 --> 404 Page Not Found: Assets/dist
+ERROR - 2015-07-14 17:03:04 --> 404 Page Not Found: Assets/dist
+ERROR - 2015-07-14 17:09:42 --> 404 Page Not Found: Assets/dist
+ERROR - 2015-07-14 17:09:42 --> 404 Page Not Found: Assets/dist
+ERROR - 2015-07-14 17:09:42 --> 404 Page Not Found: Assets/dist
