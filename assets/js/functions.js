@@ -23,16 +23,17 @@ $(function () {
         });
         return false;
     });
-}); 
-$(function() {
+});
+$(function () {
     "use strict";
-    $("#recipe_form").submit(function() {
-        var data = $("#recipe_form").serialize();
+    $("#form1").submit(function () {
+        var data = $("#form1").serialize();
+
         $.ajax({
-            url: "secure/recipe",
+            url: "forms/form1",
             data: data,
             type: "POST",
-            success: function(msg) {
+            success: function (msg) {
                 if (msg) {
                     $("#display").html(msg).show();
                 } else {
@@ -43,11 +44,11 @@ $(function() {
         return false;
     });
 });
-$(function() {
+$(function () {
     "use strict";
     $('A[rel="external"]')
-    .click( function() {
-    window.open( $(this).attr('href') );
-    return false;
-    });
+        .click(function () {
+            window.open($(this).attr('href'));
+            return false;
+        });
 });

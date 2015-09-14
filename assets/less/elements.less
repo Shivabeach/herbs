@@ -20,11 +20,10 @@
 		}
 	}
 	.section-header {
-		height: 2rem;
-		width: 100%;
-		margin-left: .5em;
+		height: 2em;
+		margin: 0 .5em;
 		color: @backdrop;
-		text-shadow:1px 1px 3px @accent;
+		text-shadow:1px 2px 3px @accent;
 		letter-spacing: 2px
 	}
 	.foot-header {
@@ -37,10 +36,18 @@
 	}
 main {
 	width: 80%;
-	float: right;
+	float: left;
 	background: @secondary;
 	height: auto;
-	overflow: auto;
+	hr {
+		display: block;
+	    margin-top: 0.5em;
+	    margin-bottom: 0.5em;
+	    margin-left: 20%;
+	    margin-right: 20%;
+	    border-style: inset;
+	    border-width: 1px;
+	}	
 }
 
 footer {
@@ -66,9 +73,10 @@ article {
 	color: @primetext;
 }
 section {
+	padding: 1em 0;
 	p {
 		color: @primetext;
-		margin: 1em;
+		margin: 2px 1.5em;
 		line-height: 1.5;
 	}
 }

@@ -4,20 +4,6 @@
   background: #303f9f;
   overflow: auto;
 }
-.leftbox {
-  width: 65%;
-  color: inherit;
-}
-.rightbox {
-  width: 35%;
-  color: inherit;
-}
-.leftbox,
-.rightbox {
-  float: left;
-  box-sizing: border-box;
-  margin-bottom: 20px;
-}
 nav {
   width: 20%;
   float: left;
@@ -26,4 +12,10 @@ nav p {
   margin: 1em;
   color: #ffffff;
   line-height: 1.5;
+}
+#display {
+  color: white;
+}
+.display {
+  color: cornflowerblue;
 }
